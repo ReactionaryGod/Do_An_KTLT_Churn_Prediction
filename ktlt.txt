@@ -1,0 +1,29 @@
+1. Cài thư viện & chạy app:
+streamlit run 3_San_Pham_Thuc_Nghiem/Giao_Dien/app.py
+pip install streamlit pandas matplotlib seaborn scikit-learn xgboost imbalanced-learn shap joblib
+
+2. Cách đọc kí hiệu:
+- γT: Gamma Tê
+- λ: Lam-đa
+- φ: Phi
+- Ω: Ô-mê-ga
+- y^: y mũ
+- ⊆: Tập hợp con
+
+3. Kịch bản 
+Phần 1: Đặt vấn đề & Khám phá dữ liệu 
+Mở đầu (2 phút)
+Dữ liệu (3 phút)
+Khám phá hành vi (EDA) (5 phút)
+
+Phần 2: Tiền xử lý & Xây dựng mô hình 
+Tiền xử lý & SMOTE (4 phút)
+Tại sao là XGBoost? (3 phút)
+Đánh giá mô hình (3 phút)
+
+Phần 3: Giải thích Mô hình & Ứng dụng 
+Vấn đề Hộp đen & Giải pháp SHAP (5 phút)
+Demo Trực tiếp Web App (5 phút)
+Kết luận (5 phút)
+
+Phần 4: Q&A - Dự trù câu hỏi phản biện (10 phút)
